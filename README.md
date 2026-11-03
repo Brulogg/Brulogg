@@ -1,6 +1,6 @@
 ### Olá, Sou o Bruno, Bem-Vindo ao meu GitHub! 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC e estou cursando o quinto semestre de Segurança da Informação.
+Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC e estou cursando o sexto e último semestre de Segurança da Informação.
 
 ### Contato
 
